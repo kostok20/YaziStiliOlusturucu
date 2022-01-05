@@ -1,15 +1,13 @@
 {
-  "name": "StylishText",
-  "description": "Telegram bot helps to get Stylish Text. Create your Fork now.",
+  "name": "Yazı Stili Oluşturucu",
+  "description": "Yazı stili oluşturmak için Telegram botu.",
   "keywords": [
-    "telegram",
-    "best",
-    "StylishText"
+    "Telegram",
+    "Font",
+    "Yazı stili"
   ],
   "logo": "https://telegra.ph/file/db247dadbf6c93ae12cf0.jpg",
-  "success_url": "https://telegram.dog/StylishTexttrbot",
-  "website": "https://github.com/TR-TECH-GUIDE/Stylish-Text",
-  "repository": "https://github.com/TR-TECH-GUIDE/Stylish-Text",
+  "repository": "https://github.com/BirBeyfendi/YaziStiliOlusturucu",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
