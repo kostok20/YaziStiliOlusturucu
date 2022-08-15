@@ -17,13 +17,13 @@ async def start(c, m):
 
 `Bana yazı tipini değiştirmek istediğin bir kelime veya cümle yazman yeterlidir.`
 
-**👲 Sahibim:** @Bir_Beyfendi
+**👲 Sahibim:** @slmBATU
 """
 
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('Destek grubu ✴', url="https://t.me/HerTeldenSupport")
+            InlineKeyboardButton('ㅤㅤㅤ🅱🅰🆃🆄 ✴', url="https://t.me/slmBATU")
         ]
     ]
     await m.reply_text(
